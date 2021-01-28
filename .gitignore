@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Corerence-Resolution/Stanford-CoreNLP-Coref/stanford-corenlp-4.0.0/*
+Masked-Language-Modelling/models/*
+
 # C extensions
 *.so
 
