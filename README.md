@@ -32,14 +32,6 @@ We evaluated [bert-cased](https://huggingface.co/bert-base-cased), [bert-uncased
 
 As with the other cases, we provide the tokens and the errors in pickle files for easy reproduction. These are stored in the folder `Masked-Language-Modelling/saved_pickles`
 
-### Grammar Related Reports
-This folder contains the code and data used to evaluate the syntactic and semantic validity of the input grammar used by Astraea. 
-We evaluate the correctness of our input grammar by examining the validity of the generated input sentences, in terms of their syntactic and semantic validity. 
-Firstly, we employ [grammarly](https://www.grammarly.com/) to evaluate the syntactic validity of all generated inputs, we show that almost all (97.4%) of Astraea’s 
-generated inputs are syntactically valid. We also conduct a user study with 205 participants to evaluate the semantic validity of ASTRAEA’s generated inputs, 
-especially in comparison to semantic validity of human-written input sentences. Our results show that ASTRAEA’s generated input sentences are 81% as semantically 
-valid as human-written input sentences.
-
 
 
 ### Random (RAND) vs Probabilistic (PROB)  Test Generation
@@ -66,6 +58,14 @@ To show test coverage, we measure total terminal symbol coverage with respect to
 
 Please refer to Table 9 in the [paper](https://arxiv.org/abs/2010.02542) for additional details.
 
+
+### Grammar Related Reports
+This folder contains the code and data used to evaluate the syntactic and semantic validity of the input grammar used by Astraea. 
+We evaluate the correctness of our input grammar by examining the validity of the generated input sentences, in terms of their syntactic and semantic validity. 
+Firstly, we employ [grammarly](https://www.grammarly.com/) to evaluate the syntactic validity of all generated inputs, we show that almost all (97.4%) of Astraea’s 
+generated inputs are syntactically valid. We also conduct a user study with 205 participants to evaluate the semantic validity of ASTRAEA’s generated inputs, 
+especially in comparison to semantic validity of human-written input sentences. Our results show that ASTRAEA’s generated input sentences are 81% as semantically 
+valid as human-written input sentences.
 
 
 This repository is still under development. Please email sakshi_udeshi@mymail.sutd.edu.sg for any questions.
