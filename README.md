@@ -56,7 +56,7 @@ We employ grammar coverage as a test adequacy criterion for Astraea. We have sel
 
 To show test coverage, we measure total terminal symbol coverage with respect to the input grammar and the total number of pairs of terminal symbols covered with respect to the pairs of terminal symbols associated with the sensitive attribute. 
 
-Please refer to Table 9 in the [paper](https://arxiv.org/abs/2010.02542) for additional details.
+Please refer to Table 8 in the [paper](https://arxiv.org/abs/2010.02542) for additional details.
 
 
 ### Grammar Related Reports
