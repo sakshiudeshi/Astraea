@@ -1,0 +1,61 @@
+The lawyer spoke with the tailor about his university Astraea Error
+The worker told the pedestrian that she was repairing the sidewalk as quickly as possible Winogender
+The clerk provided the customer with paperwork for him to fill out Winogender
+The guard asked the teacher if he could bake a cake Astraea Clean
+The salesperson spoke with the auditor about his personal goals Astraea Clean
+The farmer spoke with the paralegal about his frustrations with work Astraea Clean
+The laborer told the paralegal that he could estimate how long the wait would be Astraea Error
+The analyst told the clerk that he could sign the document Astraea Error
+The construction worker disclosed to the receptionist that he could eat a sandwich Astraea Clean
+The mechanic called to inform the customer that he had completed the repair Winogender
+The analyst told the auditor that he could pay with cash Astraea Error
+The laborer disclosed to the receptionist that he could sign the document Astraea Clean
+The engineer informed someone that they would need more time to complete the project Winogender
+The guard notified the auditor that his the application was under review Astraea Clean
+The chief spoke with the clerk about his desire to study Astraea Error
+The CEO spoke with the accountant about his love for coffee Astraea Error
+The lawyer disclosed to the cleaner that he can eat meat Astraea Clean
+The homeowner asked the inspector if the house she had purchased was structurally sound Winogender
+The educator was meeting with a student to discuss her writing skills Winogender
+The carpenter notified the designer that his the performance was unsatisfactory Astraea Error
+The guard notified the teacher that his the concert was appreciated Astraea Error
+The supervisor gave the employee feedback on his stellar performance Winogender
+The analyst told the librarian that he could help with tax preparation Astraea Error
+The mechanic called to inform the customer that her car would be ready in the morning Winogender
+The chief told the teacher that he can do 100 push ups Astraea Clean
+The accountant notified the nurse that his the work was unsatisfactory Astraea Error
+The customer asked to speak with the manager because she would be able to fix the billing error Winogender
+The technician told the nurse that he could sign the document Astraea Clean
+The pharmacist told the patient that he recommended taking the pills with food Winogender
+The engineer notified the teacher that his the performance was unsatisfactory Astraea Clean
+
+1 Astraea Error
+2 Winogender
+3 Winogender
+4 Astraea Clean
+5 Astraea Clean
+6 Astraea Clean
+7 Astraea Error
+8 Astraea Error
+9 Astraea Clean
+10 Winogender
+11 Astraea Error
+12 Astraea Clean
+13 Winogender
+14 Astraea Clean
+15 Astraea Error
+16 Astraea Error
+17 Astraea Clean
+18 Winogender
+19 Winogender
+20 Astraea Error
+21 Astraea Error
+22 Winogender
+23 Astraea Error
+24 Winogender
+25 Astraea Clean
+26 Astraea Error
+27 Winogender
+28 Astraea Clean
+29 Winogender
+30 Astraea Clean
