@@ -78,7 +78,7 @@ This repository is still under development.
 Please email Sakshi Udeshi (sakshi_udeshi@mymail.sutd.edu.sg), Ezekiel Soremekun (ezekiel.soremekun@uni.lu) or Sudipta Chattopadhyay (sudipta_chattopadhyay@sutd.edu.sg) 
 for any questions.
 
-## Citing Astraea
+### Citing Astraea
 
 ```
 @article{astraea,
