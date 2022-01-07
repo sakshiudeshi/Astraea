@@ -73,4 +73,25 @@ especially in comparison to semantic validity of human-written input sentences. 
 valid as human-written input sentences.
 
 
-This repository is still under development. Please email sakshi_udeshi@mymail.sutd.edu.sg for any questions.
+### Contact
+This repository is still under development. 
+Please email Sakshi Udeshi (sakshi_udeshi@mymail.sutd.edu.sg), Ezekiel Soremekun (ezekiel.soremekun@uni.lu) or Sudipta Chattopadhyay (sudipta_chattopadhyay@sutd.edu.sg) 
+for any questions.
+
+## Citing Astraea
+
+```
+@article{astraea,
+  title={Astraea: Grammar-based Fairness Testing},
+  author={Ezekiel Soremekun and
+               Sakshi Udeshi and
+               Sudipta Chattopadhyay},
+  booktitle={IEEE Transactions on Software Engineering (TSE)},
+  year={2022}
+}
+```
+
+
+
+
+
