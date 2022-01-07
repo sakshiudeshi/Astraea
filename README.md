@@ -3,7 +3,7 @@
 # Astraea
 
 <p align="center">
-<img src="./docs/astraea-use-case.png" alt="mode_master" width="600" height="auto" />
+<img src="./docs/astraea-use-case.png" alt="mode_master" width="700" height="auto" />
 </p>
 
 Code for ["Astraea: Grammar-based Fairness Testing"](https://arxiv.org/abs/2010.02542). In this repository, we present code for fairness of three
